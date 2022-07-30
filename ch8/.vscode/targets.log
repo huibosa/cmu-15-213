@@ -1,0 +1,454 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Wed Jun  8 20:39:33 2022
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-6b6e4798-b9da-4222-bc94-a45bef76569f.sock
+# environment
+VSCODE_CWD = /home/huibosa
+# environment
+WINDOWPATH = 1
+# environment
+LESS_TERMCAP_me = (B[m
+# environment
+LESS_TERMCAP_mr = [7m
+# default
+MAKE_COMMAND := make
+# environment
+HISTFILE = /home/huibosa/.zsh_history
+# environment
+GOPATH = /home/huibosa/.go
+# environment
+LESS_TERMCAP_ZW = 
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/huibosa/Programming/course/15-213/ch8
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+MAIL = /var/spool/mail/huibosa
+# environment
+OLDPWD = /home/huibosa
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/huibosa/.config/Code/CachedData/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# environment
+XAUTHORITY = /home/huibosa/.Xauthority
+# default
+.LOADED := 
+# environment
+LESS_TERMCAP_md = [1m[36m
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+LESS_TERMCAP_ZN = 
+# environment
+BACKUP = /backup
+# environment
+LESS_TERMCAP_so = [1m[33m[44m
+# makefile
+CURDIR := /home/huibosa/Programming/course/15-213/ch8
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+LESS_TERMCAP_ue = [24m(B[m
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+HISTSIZE = 10000000
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 39658
+# environment
+XDG_SESSION_TYPE = tty
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# environment
+LESS_TERMCAP_mh = [2m
+# environment
+LESS_TERMCAP_us = [4m[1m[37m
+# default
+MAKECMDGOALS := all
+# environment
+READER = zathura
+# environment
+SHLVL = 5
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /usr/local/go/bin:/home/huibosa/.go/bin:/home/huibosa/.scripts:/home/huibosa/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/huibosa/.antigen/bundles/agkozak/zsh-z:/home/huibosa/.antigen/bundles/zsh-users/zsh-autosuggestions:/home/huibosa/.antigen/bundles/zsh-users/zsh-syntax-highlighting
+# environment
+LESS_TERMCAP_se = [27m(B[m
+# default
+MAKEFILES := 
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# environment
+LESS_TERMCAP_mb = [1m[32m
+# environment
+INVOCATION_ID = 6fc98fd2bc0244daa50aa70eb9b7d7f0
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+PAPER = less
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_SEAT = seat0
+# environment
+LESS_TERMCAP_ZO = 
+# environment
+LS_COLORS = di=34;01:*Makefile=33:*.7z=31:*.WARC=31:*.a=31:*.arj=31:*.bz2=31:*.cpio=31:*.gz=31:*.lrz=31:*.lz=31:*.lzma=31:*.lzo=31:*.rar=31:*.s7z=31:*.sz=31:*.tar=31:*.tbz=31:*.tgz=31:*.warc=31:*.xz=31:*.z=31:*.zip=31:*.zipx=31:*.zoo=31:*.zpaq=31:*.zst=31:*.zstd=31:*.zz=31:
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+BROWSER = chromium
+# environment
+LOGNAME = huibosa
+# environment
+XDG_VTNR = 1
+# makefile
+.DEFAULT_GOAL := all
+# environment
+LESS_TERMCAP_ZV = 
+# environment
+SYSTEMD_EXEC_PID = 2788
+# environment
+SAVEHIST = 10000000
+# environment
+EDITOR = nvim
+# environment
+DISPLAY = :0
+# environment
+GTK_MODULES = canberra-gtk-module
+# environment
+USER = huibosa
+# default
+MAKE_VERSION := 4.3
+# environment
+_ = /usr/bin/make
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# makefile (from 'Makefile', line 2)
+CFLAGS = -Wall -g
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/huibosa
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-b6aad75a-1.67.2-main.sock
+# environment
+TERM = linux
+# environment
+XDG_SESSION_ID = 1
+# environment
+GOPROXY = https://goproxy.io
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# makefile (from 'Makefile', line 1)
+CC = gcc
+# makefile (from 'Makefile', line 4)
+PROGS = forks shellex sigint kill signal1 signal2 sigprob0 setjmp restart
+# variable set hash-table stats:
+# Load=108/1024=11%, Rehash=0, Collisions=13/144=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2052, inode 1450057): 25 files, no impossibilities.
+
+# 25 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+ 
+
+kill: kill.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.421523233
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 26):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# Not a target:
+signal2.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 21:01:31.756382433
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+sigint.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 19:46:53.806285677
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-08 20:29:11.728212347
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+signal1.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 20:47:19.323030686
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 44):
+	rm -f $(PROGS) *.o
+
+shellex: shellex.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.28152323
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 20):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# Not a target:
+shellex.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-06 19:36:24.521051471
+#  File has been updated.
+#  Successfully updated.
+
+sigint: sigint.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.348189898
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 23):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+restart.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-08 20:38:27.418224337
+#  File has been updated.
+#  Successfully updated.
+
+all: forks shellex sigint kill signal1 signal2 sigprob0 setjmp restart
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/5=0%
+
+# Not a target:
+forks.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 20:12:37.172985671
+#  File has been updated.
+#  Successfully updated.
+
+restart: restart.c
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  Last modified 2022-06-08 20:29:54.121546595
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := restart
+# automatic
+# * := 
+# automatic
+# < := restart.c
+# automatic
+# + := restart.c
+# automatic
+# % := 
+# automatic
+# ^ := restart.c
+# automatic
+# ? := restart.c
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=2/15=13%
+#  recipe to execute (from 'Makefile', line 41):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# Not a target:
+setjmp.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-08 20:21:31.944869058
+#  File has been updated.
+#  Successfully updated.
+
+forks: forks.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.201523229
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 17):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+sigprob0: sigprob0.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.644856571
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 35):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# Not a target:
+kill.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 19:46:53.806285677
+#  File has been updated.
+#  Successfully updated.
+
+signal1: signal1.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.498189901
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 29):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+setjmp: setjmp.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:29:03.738212175
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 38):
+	$(CC) $(CFLAGS) -Og -o $@ $^
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+sigprob0.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-07 22:20:44.32315192
+#  File has been updated.
+#  Successfully updated.
+
+signal2: signal2.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-08 20:11:54.571523236
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 32):
+	$(CC) $(CFLAGS) -Og -o $@ $^ -lcsapp
+
+# files hash-table stats:
+# Load=23/1024=2%, Rehash=0, Collisions=2/62=3%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 31 / storage = 262 B / avg = 8 B
+# current buf: size = 8162 B / used = 262 B / count = 31 / avg = 8 B
+
+# strcache performance: lookups = 75 / hit rate = 58%
+# hash-table stats:
+# Load=31/8192=0%, Rehash=0, Collisions=0/75=0%
+# Finished Make data base on Wed Jun  8 20:39:33 2022
+
+ 

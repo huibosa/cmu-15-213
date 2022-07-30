@@ -1,0 +1,18 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/huibosa/Programming/course/15-213/homework-problems/src'
+gcc -Wall -g -Og -o 10.10.out 10.10.c -lcsapp
+gcc -Wall -g -Og -o 10.6.out 10.6.c -lcsapp
+gcc -Wall -g -Og -o 10.7.out 10.7.c -lcsapp
+gcc -Wall -g -Og -o 10.8.out 10.8.c -lcsapp
+gcc -Wall -g -Og -o 8.12.out 8.12.c -lcsapp
+gcc -Wall -g -Og -o 8.13.out 8.13.c -lcsapp
+gcc -Wall -g -Og -o 8.14.out 8.14.c -lcsapp
+gcc -Wall -g -Og -o 8.15.out 8.15.c -lcsapp
+gcc -Wall -g -Og -o 8.16.out 8.16.c -lcsapp
+gcc -Wall -g -Og -o 8.18.out 8.18.c -lcsapp
+gcc -Wall -g -Og -o 8.19.out 8.19.c -lcsapp
+gcc -Wall -g -Og -o 8.20.out 8.20.c -lcsapp
+gcc -Wall -g -Og -o 8.22.out 8.22.c -lcsapp
+gcc -Wall -g -Og -o 8.24.out 8.24.c -lcsapp
+make: Leaving directory '/home/huibosa/Programming/course/15-213/homework-problems/src'
+ 
